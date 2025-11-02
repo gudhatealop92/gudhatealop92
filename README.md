@@ -1,5 +1,12 @@
 <!-- Profile README for Alop Gudhate -->
 
+<p align="center">
+  <!-- Replace the below URL with your own banner image once uploaded -->
+  <img src="https://raw.githubusercontent.com/alopgudhate/alopgudhate/main/assets/banner-linkedin-github.png" 
+       alt="MEAN Stack Developer | Alop Gudhate" 
+       style="border-radius: 12px; width: 100%; height: auto;"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Alop Gudhate</h1>
 <h3 align="center">💻 Senior Technical Specialist | MEAN Stack | Full-Stack Developer</h3>
 
@@ -12,7 +19,7 @@ I love turning complex problems into elegant, maintainable solutions and craftin
 - 🧩 **Specialties:** Angular, Node.js, Express, MongoDB  
 - 🧠 Currently exploring **Next.js + NestJS** for full-stack apps  
 - ⚙️ Focused on **performance optimization, clean architecture,** and **reusable components**  
-- 🌱 Always learning new patterns in **web scalability, cloud**, and **modern JS tooling**  
+- 🌱 Always learning new patterns in **web scalability, cloud**, and **modern JS tooling**
 
 ---
 
@@ -37,15 +44,15 @@ I love turning complex problems into elegant, maintainable solutions and craftin
 - 🧱 Building modular **MEAN stack** apps using **Nx workspace architecture**  
 - ⚡ Integrating **Firebase + Firestore** for real-time updates  
 - 🎨 Implementing **Design Systems** and reusable component libraries  
-- 🌐 Improving **frontend performance** and **user experience**  
+- 🌐 Improving **frontend performance** and **user experience**
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alopgudhate&show_icons=true&theme=tokyonight" alt="Alop's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gudhatealop92&show_icons=true&theme=tokyonight" alt="Alop's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alopgudhate&theme=tokyonight" alt="Alop's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gudhatealop92&theme=tokyonight" alt="Alop's streak stats" />
 </p>
 
 ---
