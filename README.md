@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace the below URL with your own banner image once uploaded -->
-  <img src="https://raw.githubusercontent.com/alopgudhate/alopgudhate/main/assets/banner-linkedin-github.png" 
+  <img src="https://raw.githubusercontent.com/alopgudhate/alopgudhate/banner-image.png" 
        alt="MEAN Stack Developer | Alop Gudhate" 
        style="border-radius: 12px; width: 100%; height: auto;"/>
 </p>
