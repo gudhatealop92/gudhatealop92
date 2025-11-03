@@ -50,9 +50,9 @@ I love turning complex problems into elegant, maintainable solutions and craftin
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gudhatealop92&show_icons=true&theme=tokyonight" alt="Alop's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alopgudhate&show_icons=true&theme=tokyonight" alt="Alop's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gudhatealop92&theme=tokyonight" alt="Alop's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alopgudhate&theme=tokyonight" alt="Alop's streak stats" />
 </p>
 
 ---
