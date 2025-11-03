@@ -1,11 +1,10 @@
 <!-- Profile README for Alop Gudhate -->
 
-<p align="center">
-  <!-- Replace the below URL with your own banner image once uploaded -->
+<!-- <p align="center">
   <img src="https://github.com/alopgudhate/alopgudhate/blob/main/banner-image.png" 
        alt="MEAN Stack Developer | Alop Gudhate" 
        style="border-radius: 12px; width: 100%; height: auto;"/>
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm Alop Gudhate</h1>
 <h3 align="center">💻 Senior Technical Specialist | MEAN Stack | Full-Stack Developer</h3>
